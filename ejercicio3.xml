@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PortadaCD>
+  <parteSuperiorPortada>
+      <artista>
+        <etiqueta>ARTISTA: </etiqueta>
+        <definicion>ABC (2)</definicion>
+      </artista>
+      <título>
+        <etiqueta>TÍTULO: </etiqueta>
+        <definicion>The Collection</definicion>
+      </título>
+      <sello>
+        <etiqueta>SELLO: </etiqueta>
+        <definicion>KARUSSEL INTERNATIONAL</definicion>
+      </sello>
+      <referencia>
+        <etiqueta>REFERENCIA: </etiqueta>
+        <definicion>551 831-2</definicion>
+      </referencia>
+      <año>
+        <etiqueta>AÑO: </etiqueta>
+        <definicion>1996</definicion>
+      </año>
+      <pais>
+        <etiqueta>PAÍS: </etiqueta>
+        <definicion>Germany</definicion>
+      </pais>
+      <formato>
+        <etiqueta>FORMATO: </etiqueta>
+        <definicion>CD - Compilation</definicion>
+      </formato>
+      <genero>
+        <etiqueta>GÉNERO: </etiqueta>
+        <definicion>Funk / Soul, Electronic</definicion>
+      </genero>
+      <estilo>
+        <etiqueta>ESTILO: </etiqueta>
+        <definicion>Funk Disco, Synth Pop</definicion>
+      </estilo>
+      <observaciones>
+        <etiqueta>OBSERVACIONES: </etiqueta>
+        <definicion>Licensed from Mercury Records Ltd (London)</definicion>
+      </observaciones>
+  </parteSuperiorPortada>
+  <parteInferiorPortada>
+    <canciones>
+      <cancion><tituloCD>CD 1</tituloCD></cancion>
+
+      <cancion>
+        <idCancion>01</idCancion>
+        <nombreCancion>Poison Arrow - </nombreCancion>
+        <duracionCancion>[03:23]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>02</idCancion>
+        <nombreCancion>The Look Of Love (Part One) - </nombreCancion>
+        <duracionCancion>[03:29]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>03</idCancion>
+        <nombreCancion>The Night You Murdered Love - </nombreCancion>
+        <duracionCancion>[04:53]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>04</idCancion>
+        <nombreCancion>Tears Are Not Enough - </nombreCancion>
+        <duracionCancion>[03:29]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>05</idCancion>
+        <nombreCancion>Be Near Me - </nombreCancion>
+        <duracionCancion>[03:37]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>06</idCancion>
+        <nombreCancion>I'm In Love With You - </nombreCancion>
+        <duracionCancion>[04:35]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>07</idCancion>
+        <nombreCancion>The Real Thing - </nombreCancion>
+        <duracionCancion>[04:54]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>08</idCancion>
+        <nombreCancion>Love's A Dangerous Language - </nombreCancion>
+        <duracionCancion>[03:40]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>09</idCancion>
+        <nombreCancion>The Greatest Love Of All - </nombreCancion>
+        <duracionCancion>[05:34]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>10</idCancion>
+        <nombreCancion>When Smokey Sings - </nombreCancion>
+        <duracionCancion>[04:18]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>11</idCancion>
+        <nombreCancion>One Better World - </nombreCancion>
+        <duracionCancion>[05:38]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>12</idCancion>
+        <nombreCancion>Vanity Kills - </nombreCancion>
+        <duracionCancion>[03:29]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>13</idCancion>
+        <nombreCancion>Bite The Hand - </nombreCancion>
+        <duracionCancion>[03:07]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>14</idCancion>
+        <nombreCancion>Chicago(Abridged) - </nombreCancion>
+        <duracionCancion>[03:40]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>15</idCancion>
+        <nombreCancion>Minneapolis - </nombreCancion>
+        <duracionCancion>[02:57]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>16</idCancion>
+        <nombreCancion>Think Again - </nombreCancion>
+        <duracionCancion>[03:39]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>17</idCancion>
+        <nombreCancion>Never More Than Now - </nombreCancion>
+        <duracionCancion>[06:03]</duracionCancion>
+      </cancion>
+      <cancion>
+        <idCancion>18</idCancion>
+        <nombreCancion>All Of My Heart - </nombreCancion>
+        <duracionCancion>[04:49]</duracionCancion>
+      </cancion>
+    </canciones>
+  </parteInferiorPortada>
+</PortadaCD>

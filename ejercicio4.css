@@ -1,0 +1,78 @@
+PortadaCD {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  color: white;
+}
+artista, titulo, sello, referencia, año, pais, formato, genero, estilo, observaciones {
+  display: table-row;
+}
+imagen {
+  background-image: url("foto.jpg");
+  width: 300px;
+  height: 292px;
+  margin-right: 20px;
+}
+parteDerecha {
+  display: flex;
+  flex-direction: column;
+}
+etiqueta, definicion {
+  display: table-cell;
+  padding: 2px;
+}
+etiqueta {
+  text-align: right;
+}
+descripcion {
+  display: table;
+}
+parteSuperiorPortada {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  height: 35vh;
+  padding: 20px;
+  margin-top: 40px;
+  background-color: #212733;
+}
+etiqueta {
+  color: grey;
+}
+parteInferiorPortada {
+  display: flex;
+  width: 50%;
+  height: 40vh;
+  padding-top: 30px;
+  background-color: #212733;
+  padding: 20px;
+}
+cancion:nth-child(even) {
+   background-color: #101010;
+}
+cancion {
+  width: 51vw;
+}
+sello definicion {
+  font-style: normal;
+}
+definicion, nombreCancion {
+  font-style: italic;
+}
+artista definicion {
+  color: orange;
+}
+cancion {
+  display: block;
+}
+idCancion {
+  padding-right: 13px;
+}
+duracionCancion {
+  color: grey;
+}
+canciones {
+
+}

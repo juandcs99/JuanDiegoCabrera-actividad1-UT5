@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipoliga>
+  <RootJugadores>
+    <jugadores>
+      <IdJugador>1</IdJugador>
+      <nombreJugador>Cristiano Ronaldo</nombreJugador>
+      <numeroJugador>7</numeroJugador>
+    </jugadores>
+    <jugadores>
+      <IdJugador>2</IdJugador>
+      <nombreJugador>Sergio Ramos</nombreJugador>
+      <numeroJugador>2</numeroJugador>
+    </jugadores>
+    <jugadores>
+      <IdJugador>3</IdJugador>
+      <nombreJugador>Iker Casillas</nombreJugador>
+      <numeroJugador>1</numeroJugador>
+    </jugadores>
+    <jugadores>
+      <IdJugador>4</IdJugador>
+      <nombreJugador>Benzema</nombreJugador>
+      <numeroJugador>20</numeroJugador>
+    </jugadores>
+    <jugadores>
+      <IdJugador>5</IdJugador>
+      <nombreJugador>Messi</nombreJugador>
+      <numeroJugador>10</numeroJugador>
+    </jugadores>
+  </RootJugadores>
+  <nombre>
+    <nombreEquipo>ElEquipaso</nombreEquipo>
+  </nombre>
+  <entrenador>
+    <nombreEntrenador>Lopetegui</nombreEntrenador>
+  </entrenador>
+</equipoliga>
