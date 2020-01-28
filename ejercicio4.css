@@ -13,14 +13,14 @@ imagen {
   background-image: url("foto.jpg");
   width: 300px;
   height: 292px;
-  margin-right: 20px;
+  margin-right: 20px; /*Fíjate que la imagen tiene una sombra. Es importante que sepas ponerla de cara al examen*/
 }
 parteDerecha {
   display: flex;
   flex-direction: column;
 }
 etiqueta, definicion {
-  display: table-cell;
+  display: table-cell; 
   padding: 2px;
 }
 etiqueta {
@@ -74,5 +74,5 @@ duracionCancion {
   color: grey;
 }
 canciones {
-
+ /*De cara al futuro, en el css son importantes las líneas. Si hasces desaparecer esta regla, mejor*/
 }
